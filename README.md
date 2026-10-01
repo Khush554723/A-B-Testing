@@ -32,4 +32,4 @@ Two-proportion z-test: checks whether the difference between two conversion rate
 Sequential testing: monitoring results batch by batch instead of waiting for the full sample.
 Author
 
-Khushi Shekhawat GitHub | LinkedIn
+
